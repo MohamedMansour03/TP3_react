@@ -1,9 +1,10 @@
 {
-  "homepage": "https://MohamedMansour03.github.io/TP2_react",
+  "homepage": "https://github.com/MohamedMansour03/TP3_react.git",
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",

@@ -1,14 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import Slider from './slider/Slider ';
+import Liste from './crud/principal';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Slider></Slider>
+    <Liste></Liste>
   
+   
   </React.StrictMode>
 );
 
